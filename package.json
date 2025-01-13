@@ -8,7 +8,7 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "@types/node": "^22.7.6",
+    "@types/node": "^22.10.6",
     "@types/ol": "^7.0.0",
     "axios": "^1.7.7",
     "vite": "^5.4.8"
